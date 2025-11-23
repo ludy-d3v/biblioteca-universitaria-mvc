@@ -8,7 +8,7 @@ class LivroModel:
                 host="localhost",
                 database="biblioteca_db",
                 user="postgres",
-                password="minhasenha123"
+                password="s3nh4"
             )
         except Exception as e:
             print("\nErro ao conectar ao banco:", e)
