@@ -1,4 +1,4 @@
-# 📘 **Biblioteca Universitária – MVC (Python + PostgreSQL)**
+# **Biblioteca Universitária – MVC (Python + PostgreSQL)**
 
 Projeto desenvolvido para *atividade avaliativa*, utilizando **arquitetura MVC**, **Python**, **PostgreSQL**.
 
